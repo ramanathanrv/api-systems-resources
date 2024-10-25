@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.1">
   <diagram name="Page-1" id="qU7TNp_gW_BwZq8pQVzv">
-    <mxGraphModel dx="1272" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1004" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,8 +227,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PtzTgGSPzgL4J4l-laeS-82" value="Hadoop Cluster" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.hdfs_cluster;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="97.25" y="649" width="61.5" height="63" as="geometry" />
+        <mxCell id="PtzTgGSPzgL4J4l-laeS-82" value="Hadoop Cluster" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=right;html=1;shape=mxgraph.aws3.hdfs_cluster;fillColor=#F58534;gradientColor=none;labelPosition=left;" parent="1" vertex="1">
+          <mxGeometry x="153" y="674.5" width="61.5" height="63" as="geometry" />
         </mxCell>
         <mxCell id="PtzTgGSPzgL4J4l-laeS-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PtzTgGSPzgL4J4l-laeS-85" target="PtzTgGSPzgL4J4l-laeS-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -236,12 +236,11 @@
         <mxCell id="PtzTgGSPzgL4J4l-laeS-85" value="Embedded&amp;nbsp;&lt;div&gt;Bank SDK&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.apps;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="190" y="370" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PtzTgGSPzgL4J4l-laeS-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PtzTgGSPzgL4J4l-laeS-86" edge="1">
+        <mxCell id="FMV4FBrr6Bg7bfX7vypL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PtzTgGSPzgL4J4l-laeS-86" target="PtzTgGSPzgL4J4l-laeS-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="301" y="619" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="620" />
-              <mxPoint x="301" y="620" />
+              <mxPoint x="280" y="570" />
+              <mxPoint x="280" y="619" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -250,6 +249,18 @@
         </mxCell>
         <mxCell id="PtzTgGSPzgL4J4l-laeS-91" value="Consumer Facing&amp;nbsp;&lt;div&gt;Mobile App&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="821.42" y="370" width="55.08" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="FMV4FBrr6Bg7bfX7vypL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.419;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FMV4FBrr6Bg7bfX7vypL-1" target="PtzTgGSPzgL4J4l-laeS-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="117" y="660" />
+              <mxPoint x="280" y="660" />
+              <mxPoint x="280" y="634" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMV4FBrr6Bg7bfX7vypL-1" value="Realtime&lt;div&gt;Events&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mq_broker;" vertex="1" parent="1">
+          <mxGeometry x="84" y="540" width="78" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
