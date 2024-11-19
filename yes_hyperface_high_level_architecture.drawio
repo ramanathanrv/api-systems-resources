@@ -267,7 +267,7 @@
         <mxCell id="FMV4FBrr6Bg7bfX7vypL-1" value="Realtime&lt;div&gt;Events&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mq_broker;" parent="1" vertex="1">
           <mxGeometry x="84" y="540" width="78" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="w8h_iJZJ_aDkFzz_cRFC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="w8h_iJZJ_aDkFzz_cRFC-1" target="PtzTgGSPzgL4J4l-laeS-91" edge="1">
+        <mxCell id="w8h_iJZJ_aDkFzz_cRFC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="w8h_iJZJ_aDkFzz_cRFC-1" target="PtzTgGSPzgL4J4l-laeS-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GOaVsmTy7Bc5PCpcDu-Y-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w8h_iJZJ_aDkFzz_cRFC-1" target="GOaVsmTy7Bc5PCpcDu-Y-8">
